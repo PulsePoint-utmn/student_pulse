@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
     return ( 
-        <div className="sticky top-0 bg-indigo-500 text-indigo-50">
+        <div className="backdrop-opacity-100 top-0 text-indigo-50">
             <header>
                 <ul className="list-none flex justify-center gap-4">
                 <li className="p-2">Home</li>
